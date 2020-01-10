@@ -4,6 +4,8 @@ date: "2017-09-03T22:40:32.169Z"
 description: Some basic differences between Python and Javascript syntax.
 ---
 
+> This article was originally posted on [Medium](https://medium.com/@Ljyockey/python-syntax-a-beginners-guide-for-javascript-developers-5bdc1066ac4c).
+
 
 I've been wanting to pick up another programming language for a while. This week, I took Codecadmy's Python course. It is absolutely true when people say that once you learn one programming language, it is easier to pick up others. The core concepts of programming, breaking down a project and working through it methodically, only has to be learned once. While there is a lot to learn with a new language, these simple syntax differences may help you get started if you are a JavaScript Developer looking to learn Python.
 
